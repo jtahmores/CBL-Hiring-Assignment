@@ -1,0 +1,2 @@
+For the first task the data is available from "tensorflow.keras.datasets.fashion_mnist"
+For the second task the data could be accesses from "https://github.com/hasibzunair/synthetic-covid-cxr-dataset/releases/tag/v0.1"
